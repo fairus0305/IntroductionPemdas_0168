@@ -9,5 +9,9 @@ int main()
     //variable lokal
     int age;
     int age1;
+    age = 20;
+    age1 = 18;
+
+    cout << "helo" << endl;
     
 }
