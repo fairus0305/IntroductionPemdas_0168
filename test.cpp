@@ -1,8 +1,9 @@
 #include <iostream>
 using namespace std;
 
-string nama; //M
+string nama; // M
 
 int main()
 {
+    int age;
 }
