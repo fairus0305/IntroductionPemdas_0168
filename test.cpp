@@ -13,5 +13,6 @@ int main()
     age1 = 18;
 
     cout << "helo" << endl;
-    
+    cout << 99 << endl;
+
 }
