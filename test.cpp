@@ -6,6 +6,7 @@ string nama;
 
 int main()
 {
+    //mvariable lokal
     int age;
     int nim;
 }
