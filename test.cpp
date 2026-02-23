@@ -14,5 +14,7 @@ int main()
 
     cout << "helo" << endl;
     cout << 99 << endl;
+    cout << age << endl;
+    cout << age1 << endl;
 
 }
