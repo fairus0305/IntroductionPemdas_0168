@@ -6,4 +6,6 @@ string nama;
 
 int main()
 {
+    int age;
+    int nim;
 }
