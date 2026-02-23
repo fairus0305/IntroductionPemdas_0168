@@ -8,5 +8,6 @@ int main()
 {
     //variable lokal
     int age;
+    int age1;
     
 }
