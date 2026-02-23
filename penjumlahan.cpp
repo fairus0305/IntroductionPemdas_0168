@@ -1,7 +1,12 @@
 #include <iostream>
 using namespace std;
 
-int main(){
+int main(){ //mulai langkah
     int p, l, luas;
-    
+
+     //langkah 2
+    cout << "masukan panjang : ";
+    cin >> p;
+
+
 }
